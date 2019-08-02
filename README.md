@@ -16,7 +16,7 @@ You have more security and can use bukkit or spigot plugins.
 
 Usefull links :
 
-Donator link : (comming soon)
+
 
 Email : grapeinc7@gmail.com.
 
